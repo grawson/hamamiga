@@ -1,3 +1,5 @@
+Check out the [demo](https://github.com/grawson/hamamiga/blob/master/Demo.mp4)!
+
 #include a bit of happiness
 
 #HaMaMiGa
